@@ -1,0 +1,40 @@
+/*Style for body*/
+body{
+    text-align:center;
+    } 
+
+/*Style for paragraph tag*/
+#firstp{
+word-spacing: 10px;
+font-variant: small-caps;
+text-align: center;
+font-size: 80px;  
+}
+
+#reasontext{
+font-size: 50px
+}
+
+/*Style for image*/
+#album{
+border-style:solid;
+border-color:#8E24AA
+border:2px 
+border-radius: 80px;
+padding: 5px;
+width:450px;
+height:auto;
+}
+
+.buttonholder{
+    box-sizing: border-box;
+    width: 450px;
+    margin:10px auto;
+}
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
